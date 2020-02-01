@@ -1,6 +1,10 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-can_interact = 0;
+// Inherit the parent event
+event_inherited();
 
-target_room = noone;
+	
+target_room = rm_Floor1;
+
+

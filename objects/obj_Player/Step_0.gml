@@ -41,7 +41,7 @@ if (collision_object != noone)
 {
 	if keyboard_check(vk_space)
 	{
-		room_goto(rm_Floor1);
+		room_goto(collision_object.target_room);
 	}
 }
 

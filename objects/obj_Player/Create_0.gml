@@ -5,4 +5,4 @@ mv_sprint_speed = 3;
 
 mv_curr_speed = mv_speed;
 
-collision_object = 0;
+collision_object = noone;
