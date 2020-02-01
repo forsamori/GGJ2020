@@ -71,10 +71,26 @@
             }
         },
         {
+            "Key": "3ff8e8f0-bebb-4ba7-a44d-0543f326cdca",
+            "Value": {
+                "id": "e676be47-edd6-48c4-bc1c-0bd6bbecd2b0",
+                "resourcePath": "objects\/obj_Player\/obj_Player.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4532da9d-a917-450f-b5ab-b2820808685b",
             "Value": {
                 "id": "49a07d09-ee8d-45b0-8be1-2666a2a9f38e",
-                "resourcePath": "rooms\/room0\/room0.yy",
+                "resourcePath": "rooms\/rm_Menu\/rm_Menu.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "4f72ae07-ffb0-44e6-8b60-c0ee357bcf16",
+            "Value": {
+                "id": "20607724-0524-41e9-b855-c3b6839dbfaf",
+                "resourcePath": "rooms\/rm_Floor2\/rm_Floor2.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -167,6 +183,14 @@
             }
         },
         {
+            "Key": "94e05dd1-bd3a-4345-9517-e87a7d44a527",
+            "Value": {
+                "id": "239b0c13-70c0-4f81-8a73-1ee7c443c5b5",
+                "resourcePath": "sprites\/spr_Player\/spr_Player.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
             "Value": {
                 "id": "4f4f148b-ac9d-4b3b-aa5d-a008faa66103",
@@ -188,6 +212,14 @@
                 "id": "c10262b0-b9ee-4b96-9bb7-ab775d2707ee",
                 "resourcePath": "options\/linux\/options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "c4d69476-a27b-4cb1-93bc-6f3edea17975",
+            "Value": {
+                "id": "df30c067-04ae-4572-bdda-589b7c0cc79d",
+                "resourcePath": "objects\/obj_Manager\/obj_Manager.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -220,6 +252,14 @@
                 "id": "7ae99afb-b58c-418d-8c49-89feaf300dea",
                 "resourcePath": "views\/d977bb5c-4c56-4f71-bb15-faf56533b324.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "dd6057ae-d4e5-48a4-a8ef-7ae88ce5109f",
+            "Value": {
+                "id": "b1f2034a-df1b-4dbd-9178-37f4f1d4b2c5",
+                "resourcePath": "rooms\/rm_Floor1\/rm_Floor1.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
