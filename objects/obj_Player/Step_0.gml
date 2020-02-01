@@ -33,4 +33,15 @@ if keyboard_check(ord("S"))
 
 ///END MOVEMENT ------------------------
 
+//START INTERACTION --------------------
+
+//Get object we're touching
+//See Collision Event with obj_Puzzle
+if (collision_object != noone)
+{
+	if keyboard_check(vk_space)
+	{
+		room_goto(rm_Floor1);
+	}
+}
 
