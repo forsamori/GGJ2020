@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "03318da9-1157-4f45-96eb-3abf4c61384d",
+            "Value": {
+                "id": "981d7314-d023-471a-bb50-349a59cb548f",
+                "resourcePath": "sprites\/spr_ChargeBar\/spr_ChargeBar.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0eb8e620-fae0-4dfa-9031-279f41e8640f",
             "Value": {
                 "id": "22adf09b-75ef-4c45-8914-6073700a175c",
@@ -66,7 +74,15 @@
             "Key": "16c5b35c-8b60-4680-8b34-690660acf2b6",
             "Value": {
                 "id": "d0abd524-6244-48f4-870c-077c229b96a3",
-                "resourcePath": "objects\/object7\/object7.yy",
+                "resourcePath": "objects\/obj_ChargeHead\/obj_ChargeHead.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "198d4f58-6236-4d31-aaa6-be23c70eef22",
+            "Value": {
+                "id": "54ff2d78-ca37-4f92-9fc0-c203e1659174",
+                "resourcePath": "objects\/obj_ChargeBar\/obj_ChargeBar.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -163,6 +179,14 @@
             "Value": {
                 "id": "ffdba805-66b0-4e70-b483-64205ef768f1",
                 "resourcePath": "sprites\/spr_Spacebar\/spr_Spacebar.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "680e5851-dab9-435b-96c5-c3a5b70fdaab",
+            "Value": {
+                "id": "d6e1cdee-56d0-43da-81fd-ba862eaa31fa",
+                "resourcePath": "sprites\/spr_ChargeHead\/spr_ChargeHead.yy",
                 "resourceType": "GMSprite"
             }
         },
