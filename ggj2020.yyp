@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "5f25f926-2f51-4ea8-80b9-83d74a342861",
+            "Value": {
+                "id": "ffdba805-66b0-4e70-b483-64205ef768f1",
+                "resourcePath": "sprites\/spr_Spacebar\/spr_Spacebar.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "70bee31a-53b4-4fb9-88bd-7804033d7127",
             "Value": {
                 "id": "35ac4968-29e2-48c4-a8d7-2f9e7f22ace9",

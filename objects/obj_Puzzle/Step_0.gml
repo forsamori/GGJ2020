@@ -8,5 +8,10 @@ if (distance_to_object(obj_Player) < 10.0)
 	//Shake it baby
 	x = x+random_range(-2.0, 2.0);
 	y = y+random_range(-2.0, 2.0);
-	
+
+	can_interact = true;
 }
+else
+	can_interact = false;
+
+
