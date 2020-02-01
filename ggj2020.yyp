@@ -39,11 +39,27 @@
             }
         },
         {
+            "Key": "00b82506-3cd6-4962-b96a-8f8821e220b4",
+            "Value": {
+                "id": "cba4ce64-a1ed-46dd-ba34-c7930b4c754a",
+                "resourcePath": "sprites\/spr_Nail2\/spr_Nail2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0eb8e620-fae0-4dfa-9031-279f41e8640f",
             "Value": {
                 "id": "22adf09b-75ef-4c45-8914-6073700a175c",
                 "resourcePath": "objects\/obj_ChildPuzzle1\/obj_ChildPuzzle1.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "13402f8e-cad4-45a2-ae21-d9ffe825ca47",
+            "Value": {
+                "id": "db583cb6-eafb-49d1-98ed-83c15cee76e4",
+                "resourcePath": "sprites\/spr_Nail3\/spr_Nail3.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -79,6 +95,14 @@
             }
         },
         {
+            "Key": "3588a8a5-557a-4ca4-b625-50d5ca34b34b",
+            "Value": {
+                "id": "fb24b736-4729-4159-b4c8-1daded6de944",
+                "resourcePath": "sprites\/spr_Nail1\/spr_Nail1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3ff8e8f0-bebb-4ba7-a44d-0543f326cdca",
             "Value": {
                 "id": "e676be47-edd6-48c4-bc1c-0bd6bbecd2b0",
@@ -92,6 +116,14 @@
                 "id": "49a07d09-ee8d-45b0-8be1-2666a2a9f38e",
                 "resourcePath": "rooms\/rm_Menu\/rm_Menu.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "4d9680c3-ec4b-4b43-89a1-1360ee2c544f",
+            "Value": {
+                "id": "5f9c7f00-eb17-41f8-8f38-a652da4e0078",
+                "resourcePath": "objects\/obj_Hammer\/obj_Hammer.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -124,6 +156,14 @@
                 "id": "ffdba805-66b0-4e70-b483-64205ef768f1",
                 "resourcePath": "sprites\/spr_Spacebar\/spr_Spacebar.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6f345d35-4b4d-4c86-ba10-2fe2fcc17eeb",
+            "Value": {
+                "id": "48d8a78e-1dac-4906-a633-c1fca1a1aeb7",
+                "resourcePath": "objects\/obj_Nail\/obj_Nail.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -306,7 +346,7 @@
             "Key": "dd6057ae-d4e5-48a4-a8ef-7ae88ce5109f",
             "Value": {
                 "id": "b1f2034a-df1b-4dbd-9178-37f4f1d4b2c5",
-                "resourcePath": "rooms\/rm_Floor1\/rm_Floor1.yy",
+                "resourcePath": "rooms\/rm_Nails\/rm_Nails.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -319,11 +359,27 @@
             }
         },
         {
+            "Key": "ee4b8ca8-fd5d-4280-9ec2-05780498a3ea",
+            "Value": {
+                "id": "506b2e69-177c-43cc-aae4-e7e0f9bf48ce",
+                "resourcePath": "sprites\/spr_Nail0\/spr_Nail0.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "c36195ef-75f2-4e33-a4a2-360006125ea5",
                 "resourcePath": "options\/mac\/options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "fbeafc4e-ebc7-4182-8750-90cec97659d4",
+            "Value": {
+                "id": "843f6c9e-696c-4387-be4e-721916f73b86",
+                "resourcePath": "sprites\/spr_Hammer\/spr_Hammer.yy",
+                "resourceType": "GMSprite"
             }
         }
     ],
