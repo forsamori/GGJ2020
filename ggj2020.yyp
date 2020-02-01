@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "78715f79-63cf-4ba1-b804-9c1025e0b6b0",
+            "Value": {
+                "id": "505a3147-03aa-4225-9b9c-0e0f47b0019d",
+                "resourcePath": "sprites\/spr_Puzzle\/spr_Puzzle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7e093a2a-e51c-4a1e-9a53-f9080d38730b",
             "Value": {
                 "id": "9f84cccf-3a7b-4b3d-a522-9a2937e7a2be",
@@ -156,6 +164,14 @@
                 "id": "6d9214e8-046f-4323-ab5c-7a36b7a1fe56",
                 "resourcePath": "options\/ios\/options_ios.yy",
                 "resourceType": "GMiOSOptions"
+            }
+        },
+        {
+            "Key": "8a057106-7172-4a76-84b5-50f8560d0d17",
+            "Value": {
+                "id": "322ad2ac-304d-458f-8851-4285e1049a0d",
+                "resourcePath": "objects\/obj_Puzzle\/obj_Puzzle.yy",
+                "resourceType": "GMObject"
             }
         },
         {
