@@ -34,3 +34,12 @@ if (room == rm_Nails)
 	
 	nailed_count = 0;
 }
+
+if (room == rm_Mimic)
+{
+	if (instance_number(obj_ToothParent) == 0)
+	{
+		pz_mimic_complete = true;
+		room_goto(rm_Main);
+	}
+}

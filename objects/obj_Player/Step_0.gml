@@ -14,11 +14,13 @@ else
 if keyboard_check(ord("A"))
 {
 	x-=mv_curr_speed;
+	image_xscale = -1;
 }
 
 if keyboard_check(ord("D"))
 {
 	x+=mv_curr_speed;
+	image_xscale = 1;
 }
 
 if keyboard_check(ord("W"))
