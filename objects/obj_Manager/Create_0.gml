@@ -10,7 +10,15 @@ pz_mimic_complete = 0;
 init_nails = false;
 
 
-dlg_do_intro = true;
+dlg_do_intro_1 = true;
+dlg_do_intro_2 = false;
+dlg_do_intro_3 = false;
+dlg_do_intro_4 = false;
+dlg_do_intro_5 = false;
+dlg_do_intro_6 = false;
+dlg_do_intro_7 = false;
+
+
 dlg_do_nails_help = false;
 dlg_do_nails_exit = false;
 dlg_do_mimic_help = false;

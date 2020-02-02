@@ -29,6 +29,7 @@ if (room == rm_Nails)
 	if (nailed_count == 12)
 	{
 		pz_nails_complete = true;
+		dlg_do_nails_exit = true;
 		room_goto(rm_Main);
 	}
 	
@@ -40,6 +41,7 @@ if (room == rm_Mimic)
 	if (instance_number(obj_ToothParent) == 0)
 	{
 		pz_mimic_complete = true;
+		dlg_do_mimic_exit = true;
 		room_goto(rm_Main);
 	}
 }
