@@ -791,6 +791,14 @@
             }
         },
         {
+            "Key": "f238bef5-4c3c-4e78-8fc9-a62c48acaded",
+            "Value": {
+                "id": "a3b2c5b0-2eba-4611-a1c2-a89d5a1b92c4",
+                "resourcePath": "sprites\/spr_MimicBG\/spr_MimicBG.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f29ce48c-a260-460b-a161-76cedf271898",
             "Value": {
                 "id": "64b4898d-3b50-43cd-9fa8-01e11b74605d",
