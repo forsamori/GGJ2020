@@ -55,6 +55,7 @@ if (collision_object != noone)
 		if (charge >= 60 && charge <= 90)
 		{
 			collision_object.hammered = true;
+			collision_object = noone;
 		}
 		charge = 0;
 	}
