@@ -6,14 +6,14 @@ if (keyboard_check_released(ord("R")))
 	game_restart();
 }
 
-if (room == rm_Menu)
+/*if (room == rm_Menu)
 {
 	
-	if (keyboard_check_released(vk_space))
+	if (keyboard_check_released(vk_enter))
 	{
 		room_goto(rm_Main);
 	}
-}
+}*/
 
 if (room == rm_Nails)
 {
