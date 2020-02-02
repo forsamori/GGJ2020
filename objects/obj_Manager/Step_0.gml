@@ -26,7 +26,7 @@ if (room == rm_Nails)
 			nailed_count++;
 		}
 	}
-	if (nailed_count == 4)
+	if (nailed_count == 12)
 	{
 		pz_nails_complete = true;
 		room_goto(rm_Main);
