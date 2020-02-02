@@ -247,6 +247,14 @@
             }
         },
         {
+            "Key": "64458ad9-c9da-4d2f-9842-867c5e6a9558",
+            "Value": {
+                "id": "7ac6d874-243d-41e4-a004-34b1c88952e3",
+                "resourcePath": "views\/64458ad9-c9da-4d2f-9842-867c5e6a9558.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "680e5851-dab9-435b-96c5-c3a5b70fdaab",
             "Value": {
                 "id": "d6e1cdee-56d0-43da-81fd-ba862eaa31fa",
@@ -340,6 +348,14 @@
                 "id": "322ad2ac-304d-458f-8851-4285e1049a0d",
                 "resourcePath": "objects\/obj_Puzzle\/obj_Puzzle.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8a86cf31-9582-4858-b8e8-d16469186b84",
+            "Value": {
+                "id": "cdb3ed8e-251d-4439-b424-5c0e0f89afd6",
+                "resourcePath": "rooms\/rm_Mimic\/rm_Mimic.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
