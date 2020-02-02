@@ -4,6 +4,6 @@
 // Inherit the parent event
 event_inherited();
 	
-target_room = rm_Floor2;
+target_room = rm_Mirror;
 
 

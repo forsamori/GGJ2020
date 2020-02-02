@@ -38,8 +38,8 @@ if (collision_object != noone)
 	
 	if (keyboard_check_pressed(vk_space))
 	{
-		charge_head= instance_create_layer(x - 150, y+64, "Instances", obj_ChargeHead);
-		instance_create_layer(x - 150, y+64, "Instances", obj_ChargeBar);
+		charge_head= instance_create_layer((window_get_width()/2)-150, 64, "Instances", obj_ChargeHead);
+		instance_create_layer((window_get_width()/2)-150, 64, "Instances", obj_ChargeBar);
 		init_x = charge_head.x;
 	}
 	if (keyboard_check(vk_space))

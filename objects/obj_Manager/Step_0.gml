@@ -6,7 +6,7 @@ if (keyboard_check_released(ord("R")))
 	game_restart();
 }
 
-if (room == rm_Menu)
+if (room == rm_Main)
 {
 }
 
@@ -29,7 +29,7 @@ if (room == rm_Nails)
 	if (nailed_count == 4)
 	{
 		pz_nails_complete = true;
-		room_goto(rm_Menu);
+		room_goto(rm_Main);
 	}
 	
 	nailed_count = 0;
